@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "googlesheets_composio": {
+      "url": "https://mcp.composio.dev/googlesheets/muscular-mealy-ad-unfYbK"
+    },
+    "yousearch_composio": {
+      "url": "https://mcp.composio.dev/yousearch/muscular-mealy-ad-unfYbK"
+    },
+    "jobs": {
+      "command": "/home/patty/.pyenv/versions/3.10.14/bin/python3",
+      "args": [
+        "/home/patty/Documents/mcp/main.py"
+      ]
+    }
+  }
+}
