@@ -155,5 +155,7 @@ A sample response from `get_job_links` might look like this:
   "timestamp": "2025-04-07T03:37:00"
 }
 ```
-Example:
+Examples:
 ![image](https://github.com/user-attachments/assets/4eee3616-bdf6-4f0c-b462-276bab350909)
+
+![image](https://github.com/user-attachments/assets/512fbc20-44ab-4722-813f-155433c968c0)
